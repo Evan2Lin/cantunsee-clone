@@ -8,7 +8,7 @@ export default new Vuex.Store({
 		levels: [
 			{
 				name: 'Tutorial',
-				points: 10,
+				points: 0,
 				color: '#0098FF',
 				questions: [
 					{ choix: ['img1', 'img2'], reponse: 'img1', help: 'Description will appear here' },
@@ -18,7 +18,7 @@ export default new Vuex.Store({
 			},
 			{
 				name: 'Problem set 1 : ',
-				points: 100,
+				points: 1,
 				color: '#0098F0',
 				questions: [
 					{ choix: ['img7', 'img8'], reponse: 'img7', help: 'Photo aspect ratio' },
@@ -30,7 +30,7 @@ export default new Vuex.Store({
 			},
 			{
 				name: 'Problem set 2 : ',
-				points: 0,
+				points: 1,
 				color: '#009800',
 				questions: [
 					{ choix: ['img29', 'img30'], reponse: 'img29', help: 'Icon contrast' },
@@ -42,7 +42,7 @@ export default new Vuex.Store({
 			},
 			{
 				name: 'Problem set 3 : ',
-				points: 150,
+				points: 1,
 				color: '#851CFF',
 				questions: [
 					{ choix: ['img63', 'img64'], reponse: 'img63', help: 'Font weight' },
@@ -54,7 +54,7 @@ export default new Vuex.Store({
 			},
 			{
 				name: 'Problem set 4 : ',
-				points: 200,
+				points: 1,
 				color: '#ff1f5d',
 				questions: [
 					{ choix: ['img69', 'img70'], reponse: 'img70', help: 'Price tag alignment' },
@@ -67,14 +67,14 @@ export default new Vuex.Store({
 			},
 			{
 				name: 'Problem set 5 : ',
-				points: 0,
+				points: 1,
 				color: '#ff1f5d',
 				questions: [
-					{ choix: ['img93', 'img94'], reponse: 'img94', help: 'Typo in text block' },
+					{ choix: ['img37', 'img38'], reponse: 'img38', help: 'Horizontal Word Alignment' },
 					{ choix: ['img95', 'img96'], reponse: 'img96', help: 'Search icon resolution' },
 					{ choix: ['img97', 'img98'], reponse: 'img97', help: 'Button shapes' },
 					{ choix: ['img105', 'img106'], reponse: 'img106', help: 'Skip button font weight' },
-					{ choix: ['img111', 'img112'], reponse: 'img112', help: 'Placeholder text baseline' },
+					{ choix: ['img90', 'img89'], reponse: 'img89', help: 'Shadow direction' },
 				],
 			},
 		]
