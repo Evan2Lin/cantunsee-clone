@@ -17,7 +17,7 @@ export default new Vuex.Store({
 				],
 			},
 			{
-				name: 'Problem set 1 : ',
+				name: 'Problem set one : ',
 				points: 1,
 				color: '#0098F0',
 				questions: [
@@ -29,7 +29,7 @@ export default new Vuex.Store({
 				]
 			},
 			{
-				name: 'Problem set 2 : ',
+				name: 'Problem set two : ',
 				points: 1,
 				color: '#009800',
 				questions: [
@@ -41,7 +41,7 @@ export default new Vuex.Store({
 				],
 			},
 			{
-				name: 'Problem set 3 : ',
+				name: 'Problem set three : ',
 				points: 1,
 				color: '#851CFF',
 				questions: [
@@ -53,7 +53,7 @@ export default new Vuex.Store({
 				],
 			},
 			{
-				name: 'Problem set 4 : ',
+				name: 'Problem set four : ',
 				points: 1,
 				color: '#ff1f5d',
 				questions: [
@@ -66,7 +66,7 @@ export default new Vuex.Store({
 				],
 			},
 			{
-				name: 'Problem set 5 : ',
+				name: 'Problem set five : ',
 				points: 1,
 				color: '#ff1f5d',
 				questions: [
